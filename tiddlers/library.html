@@ -20,7 +20,7 @@ var assetList = [{
     "parent-plugin": "$:/plugins/tiddlywiki/menubar",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/Commons",
     "name": "Commons",
@@ -33,7 +33,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/Favicon",
     "name": "Favicon",
@@ -46,7 +46,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/Fonts",
     "name": "Fonts",
@@ -59,7 +59,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/LinksIcon",
     "name": "LinksIcon",
@@ -72,7 +72,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/Modular",
     "name": "Modular",
@@ -85,7 +85,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/PLM",
     "name": "PLM",
@@ -98,7 +98,7 @@ var assetList = [{
     "parent-plugin": "$:/plugins/kookma/gatha",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:59:04"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/ReadOnly",
     "name": "ReadOnly",
@@ -111,7 +111,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/RSS",
     "name": "RSS",
@@ -124,7 +124,7 @@ var assetList = [{
     "parent-plugin": "$:/plugins/commons/file-uploads",
     "dependents": "$:/plugins/commons/file-uploads-github",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/Shortcuts",
     "name": "shortcuts",
@@ -137,7 +137,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 },{
     "title": "$:/plugins/Telumire/Switcher",
     "name": "Switcher",
@@ -150,7 +150,7 @@ var assetList = [{
     "parent-plugin": "",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:41:03"
+    "packaged-by": "Gatha on 8th May 2023, 12:04:24"
 }];
 
 /*\
@@ -184,7 +184,7 @@ window.addEventListener("message",function listener(event){
 					body: JSON.stringify(assetList,null,4)
 				},"*");
 			} else if(event.data.url.indexOf("recipes/library/tiddlers/") === 0) {
-				var url = "recipes/library/tiddlers/" + encodeURIComponent(removePrefix(event.data.url,"recipes/library/tiddlers/"));
+				var url = encodeURIComponent(removePrefix(event.data.url,"recipes/library/tiddlers/"));
 				// Route for recipes/library/tiddlers/<uri-encoded-tiddler-title>.json
 				httpGet(url,function(err,responseText) {
 					if(err) {
