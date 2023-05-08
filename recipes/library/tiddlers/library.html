@@ -98,7 +98,7 @@ var assetList = [{
     "parent-plugin": "$:/plugins/kookma/gatha",
     "dependents": "",
     "plugin-type": "plugin",
-    "packaged-by": "Gatha on 8th May 2023, 11:15:00"
+    "packaged-by": "Gatha on 8th May 2023, 11:22:38"
 },{
     "title": "$:/plugins/Telumire/ReadOnly",
     "name": "ReadOnly",
@@ -178,12 +178,12 @@ window.addEventListener("message",function listener(event){
 					verb: "GET-RESPONSE",
 					status: "200",
 					cookies: event.data.cookies,
-					url: "/",
+					url: "./",
 					type: "application/json",
-					body: JSON.stringify(assetList,null,4)
+					body: assetList
 				},"*");
 			} else if(event.data.url.indexOf("recipes/library/tiddlers/") === 0) {
-				var url = "/" + encodeURIComponent(removePrefix(event.data.url,"recipes/library/tiddlers/"));
+				var url = "./" + encodeURIComponent(removePrefix(event.data.url,"recipes/library/tiddlers/"));
 				// Route for recipes/library/tiddlers/<uri-encoded-tiddler-title>.json
 				httpGet(url,function(err,responseText) {
 					if(err) {
