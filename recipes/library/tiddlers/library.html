@@ -1,0 +1,249 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="application-name" content="TiddlyWiki Plugin Library" />
+<meta name="application-version" content="v0.0.0" />
+<meta name="copyright" content="Copyright 2015 Jeremy Ruston" />
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<title>Plugin Library</title>
+<script>
+var assetList = [{
+    "title": "$:/plugins/Telumire/Animate",
+    "name": "Animate",
+    "description": "Make user interactions available for CSS animation",
+    "author": "Telumire",
+    "version": "0.0.2",
+    "core-version": "5.2.8-prerelease",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/Animate]]",
+    "list": "readme settings",
+    "parent-plugin": "$:/plugins/tiddlywiki/menubar",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/Commons",
+    "name": "Commons",
+    "description": "Content used by several of my plugins",
+    "author": "Telumire",
+    "version": "0.0.2",
+    "core-version": "5.2.8-prerelease",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/Commons]]",
+    "list": "",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/Favicon",
+    "name": "Favicon",
+    "description": "Customize your wiki's favicon",
+    "author": "Telumire",
+    "version": "0.0.2",
+    "core-version": "5.2.7",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/Favicon]]",
+    "list": "readme settings",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/Fonts",
+    "name": "Fonts",
+    "description": "Customize your fonts",
+    "author": "Telumire",
+    "version": "0.0.4",
+    "core-version": "5.2.7",
+    "source": "https://github.com/Telumire/FontManager/releases",
+    "list": "readme settings",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/LinksIcon",
+    "name": "LinksIcon",
+    "description": "Customize your links icons",
+    "author": "Telumire",
+    "version": "0.0.2",
+    "core-version": "5.2.8-prerelease",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/LinksIcon]]",
+    "list": "readme settings",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/Modular",
+    "name": "Modular",
+    "description": "(WIP) ideate apps with tiddlywiki",
+    "author": "Telumire",
+    "version": "WIP",
+    "core-version": "5.2.8-prerelease",
+    "source": "",
+    "list": "",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/PLM",
+    "name": "PLM",
+    "description": "Create and manage your plugins",
+    "author": "Telumire",
+    "version": "0.0.3",
+    "core-version": "5.2.8-prerelease",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/PLM]]",
+    "list": "readme settings",
+    "parent-plugin": "$:/plugins/kookma/gatha",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/ReadOnly",
+    "name": "ReadOnly",
+    "description": "Hide buttons with a filter",
+    "author": "Telumire",
+    "version": "0.0.2",
+    "core-version": "5.2.8-prerelease",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/ReadOnly]]",
+    "list": "readme settings",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/RSS",
+    "name": "RSS",
+    "description": "Generate rss feeds for your wiki",
+    "author": "Telumire",
+    "version": "0.0.2",
+    "core-version": "5.2.7",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/RSS]]",
+    "list": "readme settings",
+    "parent-plugin": "$:/plugins/commons/file-uploads",
+    "dependents": "$:/plugins/commons/file-uploads-github",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/Shortcuts",
+    "name": "shortcuts",
+    "description": "custom shortcuts",
+    "author": "Telumire",
+    "version": "0.0.0",
+    "core-version": "5.2.8-prerelease",
+    "source": "",
+    "list": "",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+},{
+    "title": "$:/plugins/Telumire/Switcher",
+    "name": "Switcher",
+    "description": "Switch between dark and light palette",
+    "author": "Telumire",
+    "version": "0.0.3",
+    "core-version": "5.2.8-prerelease",
+    "source": "https://plm.tiddlyhost.com/#:[[$:/plugins/Telumire/Switcher]]",
+    "list": "readme settings",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": "Gatha on 8th May 2023, 10:35:01"
+}];
+/*\
+title: $:/plugins/tiddlywiki/pluginlibrary/libraryserver.js
+type: application/javascript
+module-type: library
+
+A simple HTTP-over-window.postMessage implementation of a standard TiddlyWeb-compatible server. It uses real HTTP to load the individual tiddler JSON files.
+
+\*/
+(function(){
+
+/*jslint node: true, browser: true */
+/*global $tw: false */
+"use strict";
+
+// Listen for window messages
+window.addEventListener("message",function listener(event){
+	console.log("plugin library: Received message from",event.origin);
+	console.log("plugin library: Message content",event.data);
+	switch(event.data.verb) {
+		case "GET":
+			if(event.data.url === "recipes/library/tiddlers.json") {
+				// Route for recipes/library/tiddlers.json
+				event.source.postMessage({
+					verb: "GET-RESPONSE",
+					status: "200",
+					cookies: event.data.cookies,
+					url: event.data.url,
+					type: "application/json",
+					body: JSON.stringify(assetList,null,4)
+				},"*");
+			} else if(event.data.url.indexOf("recipes/library/tiddlers/") === 0) {
+				var url = "recipes/library/tiddlers/" + encodeURIComponent(removePrefix(event.data.url,"recipes/library/tiddlers/"));
+				// Route for recipes/library/tiddlers/<uri-encoded-tiddler-title>.json
+				httpGet(url,function(err,responseText) {
+					if(err) {
+						event.source.postMessage({
+							verb: "GET-RESPONSE",
+							status: "404",
+							cookies: event.data.cookies,
+							url: event.data.url,
+							type: "text/plain",
+							body: "Not found"
+						},"*");
+					} else {
+						event.source.postMessage({
+							verb: "GET-RESPONSE",
+							status: "200",
+							cookies: event.data.cookies,
+							url: event.data.url,
+							type: "application/json",
+							body: responseText
+						},"*");
+					}
+				});
+			} else {
+				event.source.postMessage({
+					verb: "GET-RESPONSE",
+					status: "404",
+					cookies: event.data.cookies,
+					url: event.data.url,
+					type: "text/plain",
+					body: "Not found"
+				},"*");
+			}
+			break;
+	}
+},false);
+
+// Helper to remove string prefixes
+function removePrefix(string,prefix) {
+	if(string.indexOf(prefix) === 0) {
+		return string.substr(prefix.length);
+	} else {
+		return string;
+	}
+}
+
+// Helper for HTTP GET
+function httpGet(url,callback) {
+	var http = new XMLHttpRequest();
+	http.open("GET",url,true);
+	http.onreadystatechange = function() {
+		if(http.readyState == 4 && http.status == 200) {
+			callback(null,http.responseText);
+		}
+	};
+	http.send();
+}
+
+})();
+
+</script>
+</head>
+<body><h1>HelloThere</h1><p>This is the PLM plugin library. It is not intended to be opened directly in the browser.</p><p>See <a href="https://tiddlywiki.com/" target="_blank">https://tiddlywiki.com/</a> for details of how to install plugins.</p></body>
+</html>
