@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <atom:link href="https://Telumire.github.ioTelumire/PLM/rss/xml.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://Telumire.github.io/PLM/rss/xml.rss" rel="self" type="application/rss+xml" />
   <title>PLM</title>
   <link>https://plm.tiddlyhost.com</link>
   <description>Plugins Lifecycle Management
 
 {{$:/plugins/Telumire/ReadOnly/info}}</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 09 May 2023 00:23:06 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 09 May 2023 00:23:31 GMT</lastBuildDate>
 </channel>
 </rss>
