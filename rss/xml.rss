@@ -8,94 +8,14 @@
 
 {{$:/plugins/Telumire/ReadOnly/info}}</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 09 May 2023 00:54:53 GMT</lastBuildDate><item>
-      <title>$:/plugins/Telumire/Animate</title>
+  <lastBuildDate>Tue, 09 May 2023 00:55:25 GMT</lastBuildDate><item>
+      <title>Test RSS</title>
       <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:25 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Animate</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Animate</guid>
-</item><item>
-      <title>$:/plugins/Telumire/Commons</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:07:39 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</guid>
-</item><item>
-      <title>$:/plugins/Telumire/Favicon</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:27 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Favicon</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Favicon</guid>
-</item><item>
-      <title>$:/plugins/Telumire/Fonts</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:29 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Fonts</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Fonts</guid>
-</item><item>
-      <title>$:/plugins/Telumire/LinksIcon</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:33 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/LinksIcon</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/LinksIcon</guid>
-</item><item>
-      <title>$:/plugins/Telumire/Modular</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:34 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Modular</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Modular</guid>
-</item><item>
-      <title>$:/plugins/Telumire/PLM</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:48:25 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</guid>
-</item><item>
-      <title>$:/plugins/Telumire/ReadOnly</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:41 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/ReadOnly</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/ReadOnly</guid>
-</item><item>
-      <title>$:/plugins/Telumire/RSS</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:41 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</guid>
-</item><item>
-      <title>$:/plugins/Telumire/Shortcuts</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Shortcuts</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Shortcuts</guid>
-</item><item>
-      <title>$:/plugins/Telumire/Switcher</title>
-      <description></description>
-      <category></category>
-      <content:encoded><![CDATA[]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
-      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</guid>
+      <category>article</category>
+      <content:encoded><![CDATA[Test for the RSS feed]]></content:encoded>
+	  <pubDate>Tue, 09 May 2023 00:39:38 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#Test%20RSS</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#Test%20RSS</guid>
 </item>
 </channel>
 </rss>
