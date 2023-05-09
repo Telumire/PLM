@@ -8,7 +8,7 @@
 
 {{$:/plugins/Telumire/ReadOnly/info}}</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 08 May 2023 11:50:44 GMT</lastBuildDate><item>
+  <lastBuildDate>Tue, 09 May 2023 01:00:12 GMT</lastBuildDate><item>
       <title>$:/plugins/Telumire/Animate</title>
       <description></description>
       <category></category>
@@ -20,7 +20,9 @@
       <title>$:/plugins/Telumire/Commons</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<h2>0.0.2</h2>0.0.2
+      <content:encoded><![CDATA[<h2>0.0.2</h2>
+* Added [[readme|$:/plugins/Telumire/Commons/templates/readme]] template to be used by all plugins
+
 ]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:07:39 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</link>
@@ -37,8 +39,13 @@
       <title>$:/plugins/Telumire/Fonts</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<h2>0.0.4</h2>0.0.4
-<h2>0.0.3</h2>0.0.4
+      <content:encoded><![CDATA[<h2>0.0.4</h2>
+Correct an issue for externally loaded plugins
+
+<h2>0.0.3</h2>
+* Corrected issues with transclusion
+* Improved the code for the fonts import
+
 ]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:29 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Fonts</link>
@@ -63,8 +70,18 @@
       <title>$:/plugins/Telumire/PLM</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<h2>0.0.4</h2>0.0.4
-<h2>0.0.3</h2>0.0.4
+      <content:encoded><![CDATA[<h2>0.0.4</h2>
+* Added plugin library generation
+
+<h2>0.0.3</h2>
+* Improved the tabs in the plugin viewer
+** Added history tab + version increment
+** The history editor area use the editor macro to enable keyboard shortcuts
+** Empty tabs are hidden
+** The first non-empty tab from the tablist will be displayed by default
+* Drag&drop from the PLM plugin list or single plugin view now properly include the extra tiddlers
+* Custom [[title view template|$:/plugins/Telumire/PLM/ViewTemplate/title/nav]] to navigate plugins content
+
 ]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:48:25 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</link>
@@ -89,7 +106,9 @@
       <title>$:/plugins/Telumire/Shortcuts</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<h2>0.0.0</h2>0.0.0
+      <content:encoded><![CDATA[<h2>0.0.0</h2>
+<input type="checkbox"/> include copycode macro
+
 ]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Shortcuts</link>
@@ -98,8 +117,12 @@
       <title>$:/plugins/Telumire/Switcher</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<h2>0.0.3</h2>0.0.3
-<h2>0.0.2</h2>0.0.3
+      <content:encoded><![CDATA[<h2>0.0.3</h2>
+* Added [[meta tag|$:/plugins/Telumire/Switcher/wiki-color-scheme]] to set the color theme to the current palette
+
+<h2>0.0.2</h2>
+* Correction to the auto-darkmode filter
+
 ]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</link>
