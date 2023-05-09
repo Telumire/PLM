@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <atom:link href="https://Telumire.github.io/PLM/xml.rss" rel="self" type="application/rss+xml" />
+  <title>PLM</title>
+  <link>https://plm.tiddlyhost.com</link>
+  <description>Plugins Lifecycle Management
+
+{{$:/plugins/Telumire/ReadOnly/info}}</description>
+  <language>en-GB</language>
+  <lastBuildDate>Tue, 09 May 2023 01:46:02 GMT</lastBuildDate><item>
+      <title>$:/plugins/Telumire/Animate</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:25 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Animate</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Animate</guid>
+</item><item>
+      <title>$:/plugins/Telumire/Commons</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p><p><h2>0.0.2</h2></p><ul><li>Added <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FCommons%2Ftemplates%2Freadme">readme</a> template to be used by all plugins</li></ul></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:07:39 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</guid>
+</item><item>
+      <title>$:/plugins/Telumire/Favicon</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:27 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Favicon</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Favicon</guid>
+</item><item>
+      <title>$:/plugins/Telumire/Fonts</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p><p><h2>0.0.4</h2></p><p>Correct an issue for externally loaded plugins</p><p><h2>0.0.3</h2></p><ul><li>Corrected issues with transclusion</li><li>Improved the code for the fonts import</li></ul></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:29 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Fonts</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Fonts</guid>
+</item><item>
+      <title>$:/plugins/Telumire/LinksIcon</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:33 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/LinksIcon</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/LinksIcon</guid>
+</item><item>
+      <title>$:/plugins/Telumire/Modular</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:34 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Modular</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Modular</guid>
+</item><item>
+      <title>$:/plugins/Telumire/PLM</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p><p><h2>0.0.4</h2></p><ul><li>Added plugin library generation</li></ul><p><h2>0.0.3</h2></p><ul><li>Improved the tabs in the plugin viewer<ul><li>Added history tab + version increment</li><li>The history editor area use the editor macro to enable keyboard shortcuts</li><li>Empty tabs are hidden</li><li>The first non-empty tab from the tablist will be displayed by default</li></ul></li><li>Drag&amp;drop from the PLM plugin list or single plugin view now properly include the extra tiddlers</li><li>Custom <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FPLM%2FViewTemplate%2Ftitle%2Fnav">title view template</a> to navigate plugins content</li></ul></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:48:25 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</guid>
+</item><item>
+      <title>$:/plugins/Telumire/ReadOnly</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:41 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/ReadOnly</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/ReadOnly</guid>
+</item><item>
+      <title>$:/plugins/Telumire/RSS</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p><p><h2>0.0.3</h2></p><ul><li>Fixed issue with discoverfeed where the github username was not available to the filter generating the href</li><li>Added <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FRSS%2FitemTemplate%2Fhistory">template</a> for plugin history note</li></ul></p>]]></content:encoded>
+	  <pubDate>Tue, 09 May 2023 01:24:18 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</guid>
+</item><item>
+      <title>$:/plugins/Telumire/Shortcuts</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p><p><h2>0.0.0</h2></p><p><input type="checkbox"> include copycode macro</p></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Shortcuts</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Shortcuts</guid>
+</item><item>
+      <title>$:/plugins/Telumire/Switcher</title>
+      <description></description>
+      <category></category>
+      <content:encoded><![CDATA[<p><p><h2>0.0.3</h2></p><ul><li>Added <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FSwitcher%2Fwiki-color-scheme">meta tag</a> to set the color theme to the current palette</li></ul><p><h2>0.0.2</h2></p><ul><li>Correction to the auto-darkmode filter</li></ul></p>]]></content:encoded>
+	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
+      <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</guid>
+</item>
+</channel>
+</rss>
