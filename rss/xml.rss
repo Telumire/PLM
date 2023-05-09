@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-  <atom:link href="https://Telumire.github.io/PLM/rss/xml.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://.github.ioTelumire/PLM/rss/xml.rss" rel="self" type="application/rss+xml" />
   <title>PLM</title>
   <link>https://plm.tiddlyhost.com</link>
   <description>Plugins Lifecycle Management
 
 {{$:/plugins/Telumire/ReadOnly/info}}</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 09 May 2023 01:19:13 GMT</lastBuildDate><item>
+  <lastBuildDate>Tue, 09 May 2023 01:44:21 GMT</lastBuildDate><item>
       <title>$:/plugins/Telumire/Animate</title>
       <description></description>
       <category></category>
@@ -76,8 +76,8 @@
       <title>$:/plugins/Telumire/RSS</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<p></p>]]></content:encoded>
-	  <pubDate>Mon, 08 May 2023 11:03:41 GMT</pubDate>
+      <content:encoded><![CDATA[<p><p><h2>0.0.3</h2></p><ul><li>Fixed issue with discoverfeed where the github username was not available to the filter generating the href</li><li>Added <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FRSS%2FitemTemplate%2Fhistory">template</a> for plugin history note</li></ul></p>]]></content:encoded>
+	  <pubDate>Tue, 09 May 2023 01:24:18 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</guid>
 </item><item>
