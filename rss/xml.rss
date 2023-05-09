@@ -8,7 +8,7 @@
 
 {{$:/plugins/Telumire/ReadOnly/info}}</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 09 May 2023 00:39:50 GMT</lastBuildDate><item>
+  <lastBuildDate>Tue, 09 May 2023 00:44:26 GMT</lastBuildDate><item>
       <title>$:/plugins/Telumire/Animate</title>
       <description></description>
       <category></category>
@@ -97,13 +97,13 @@
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</guid>
 </item><item>
-      <title>||plugin-info-history</title>
+      <title>||$:/plugins/Telumire/PLM/plugins/itemTemplate/plugin-info-history</title>
       <description></description>
       <category></category>
       <content:encoded><![CDATA[]]></content:encoded>
 	  <pubDate></pubDate>
-      <link>https://plm.tiddlyhost.com#%7C%7Cplugin-info-history</link>
-      <guid isPermaLink='true'>https://plm.tiddlyhost.com#%7C%7Cplugin-info-history</guid>
+      <link>https://plm.tiddlyhost.com#%7C%7C$:/plugins/Telumire/PLM/plugins/itemTemplate/plugin-info-history</link>
+      <guid isPermaLink='true'>https://plm.tiddlyhost.com#%7C%7C$:/plugins/Telumire/PLM/plugins/itemTemplate/plugin-info-history</guid>
 </item>
 </channel>
 </rss>
