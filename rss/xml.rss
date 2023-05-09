@@ -8,15 +8,11 @@
 
 {{$:/plugins/Telumire/ReadOnly/info}}</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 09 May 2023 00:46:45 GMT</lastBuildDate><item>
+  <lastBuildDate>Tue, 09 May 2023 00:50:09 GMT</lastBuildDate><item>
       <title>$:/plugins/Telumire/Animate</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[002
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-]]></content:encoded>
+      <content:encoded><![CDATA[]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:25 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Animate</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Animate</guid>
@@ -24,14 +20,7 @@
       <title>$:/plugins/Telumire/Commons</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[002
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-
-0.0.2
-
-Added readme template to be used by all plugins]]></content:encoded>
+      <content:encoded><![CDATA[0.0.2Added readme template to be used by all plugins]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:07:39 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</guid>
@@ -39,11 +28,7 @@ Added readme template to be used by all plugins]]></content:encoded>
       <title>$:/plugins/Telumire/Favicon</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[002
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-]]></content:encoded>
+      <content:encoded><![CDATA[]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:27 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Favicon</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Favicon</guid>
@@ -51,17 +36,7 @@ Added readme template to be used by all plugins]]></content:encoded>
       <title>$:/plugins/Telumire/Fonts</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[004
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-
-0.0.4
-
-Correct an issue for externally loaded plugins
-0.0.3
-
-Corrected issues with transclusionImproved the code for the fonts import]]></content:encoded>
+      <content:encoded><![CDATA[0.0.4Correct an issue for externally loaded plugins0.0.3Corrected issues with transclusionImproved the code for the fonts import]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:29 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Fonts</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Fonts</guid>
@@ -69,11 +44,7 @@ Corrected issues with transclusionImproved the code for the fonts import]]></con
       <title>$:/plugins/Telumire/LinksIcon</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[002
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-]]></content:encoded>
+      <content:encoded><![CDATA[]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:33 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/LinksIcon</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/LinksIcon</guid>
@@ -81,11 +52,7 @@ Corrected issues with transclusionImproved the code for the fonts import]]></con
       <title>$:/plugins/Telumire/Modular</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[WIP
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-]]></content:encoded>
+      <content:encoded><![CDATA[]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:34 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Modular</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Modular</guid>
@@ -93,17 +60,7 @@ Corrected issues with transclusionImproved the code for the fonts import]]></con
       <title>$:/plugins/Telumire/PLM</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[004
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-
-0.0.4
-
-Added plugin library generation
-0.0.3
-
-Improved the tabs in the plugin viewerAdded history tab + version incrementThe history editor area use the editor macro to enable keyboard shortcutsEmpty tabs are hiddenThe first non-empty tab from the tablist will be displayed by defaultDrag&drop from the PLM plugin list or single plugin view now properly include the extra tiddlersCustom title view template to navigate plugins content]]></content:encoded>
+      <content:encoded><![CDATA[0.0.4Added plugin library generation0.0.3Improved the tabs in the plugin viewerAdded history tab + version incrementThe history editor area use the editor macro to enable keyboard shortcutsEmpty tabs are hiddenThe first non-empty tab from the tablist will be displayed by defaultDrag&drop from the PLM plugin list or single plugin view now properly include the extra tiddlersCustom title view template to navigate plugins content]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:48:25 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</guid>
@@ -111,11 +68,7 @@ Improved the tabs in the plugin viewerAdded history tab + version incrementThe h
       <title>$:/plugins/Telumire/ReadOnly</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[002
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-]]></content:encoded>
+      <content:encoded><![CDATA[]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:41 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/ReadOnly</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/ReadOnly</guid>
@@ -123,11 +76,7 @@ Improved the tabs in the plugin viewerAdded history tab + version incrementThe h
       <title>$:/plugins/Telumire/RSS</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[002
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-]]></content:encoded>
+      <content:encoded><![CDATA[]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:41 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/RSS</guid>
@@ -135,14 +84,7 @@ Improved the tabs in the plugin viewerAdded history tab + version incrementThe h
       <title>$:/plugins/Telumire/Shortcuts</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[000
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-
-0.0.0
-
- include copycode macro]]></content:encoded>
+      <content:encoded><![CDATA[0.0.0 include copycode macro]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Shortcuts</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Shortcuts</guid>
@@ -150,17 +92,7 @@ Improved the tabs in the plugin viewerAdded history tab + version incrementThe h
       <title>$:/plugins/Telumire/Switcher</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[003
-
-.editor-buttons .tc-drop-down.tc-popup-keep{visibility:initial}
-
-
-0.0.3
-
-Added meta tag to set the color theme to the current palette
-0.0.2
-
-Correction to the auto-darkmode filter]]></content:encoded>
+      <content:encoded><![CDATA[0.0.3Added meta tag to set the color theme to the current palette0.0.2Correction to the auto-darkmode filter]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</guid>
