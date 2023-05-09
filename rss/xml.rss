@@ -8,7 +8,7 @@
 
 {{$:/plugins/Telumire/ReadOnly/info}}</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 09 May 2023 01:07:43 GMT</lastBuildDate><item>
+  <lastBuildDate>Tue, 09 May 2023 01:16:46 GMT</lastBuildDate><item>
       <title>$:/plugins/Telumire/Animate</title>
       <description></description>
       <category></category>
@@ -20,7 +20,7 @@
       <title>$:/plugins/Telumire/Commons</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<p><p><code>&lt;h2&gt;</code>0.0.2<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Added &lt;a class="tc-tiddlylink tc-tiddlylink-resolves" href="[{$:/info/url/origin}]#%24%3A%2Fplugins%2FTelumire%2FCommons%2Ftemplates%2Freadme"&gt;readme&lt;/a&gt; template to be used by all plugins&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><p><code>&lt;h2&gt;</code>0.0.2<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Added &lt;a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FCommons%2Ftemplates%2Freadme"&gt;readme&lt;/a&gt; template to be used by all plugins&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p></p>]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:07:39 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Commons</guid>
@@ -60,7 +60,7 @@
       <title>$:/plugins/Telumire/PLM</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<p><p><code>&lt;h2&gt;</code>0.0.4<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Added plugin library generation&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p><p><code>&lt;h2&gt;</code>0.0.3<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Improved the tabs in the plugin viewer&lt;ul&gt;&lt;li&gt;Added history tab + version increment&lt;/li&gt;&lt;li&gt;The history editor area use the editor macro to enable keyboard shortcuts&lt;/li&gt;&lt;li&gt;Empty tabs are hidden&lt;/li&gt;&lt;li&gt;The first non-empty tab from the tablist will be displayed by default&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Drag&amp;amp;drop from the PLM plugin list or single plugin view now properly include the extra tiddlers&lt;/li&gt;&lt;li&gt;Custom &lt;a class="tc-tiddlylink tc-tiddlylink-resolves" href="[{$:/info/url/origin}]#%24%3A%2Fplugins%2FTelumire%2FPLM%2FViewTemplate%2Ftitle%2Fnav"&gt;title view template&lt;/a&gt; to navigate plugins content&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><p><code>&lt;h2&gt;</code>0.0.4<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Added plugin library generation&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p><p><code>&lt;h2&gt;</code>0.0.3<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Improved the tabs in the plugin viewer&lt;ul&gt;&lt;li&gt;Added history tab + version increment&lt;/li&gt;&lt;li&gt;The history editor area use the editor macro to enable keyboard shortcuts&lt;/li&gt;&lt;li&gt;Empty tabs are hidden&lt;/li&gt;&lt;li&gt;The first non-empty tab from the tablist will be displayed by default&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Drag&amp;amp;drop from the PLM plugin list or single plugin view now properly include the extra tiddlers&lt;/li&gt;&lt;li&gt;Custom &lt;a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FPLM%2FViewTemplate%2Ftitle%2Fnav"&gt;title view template&lt;/a&gt; to navigate plugins content&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p></p>]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:48:25 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/PLM</guid>
@@ -92,7 +92,7 @@
       <title>$:/plugins/Telumire/Switcher</title>
       <description></description>
       <category></category>
-      <content:encoded><![CDATA[<p><p><code>&lt;h2&gt;</code>0.0.3<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Added &lt;a class="tc-tiddlylink tc-tiddlylink-resolves" href="[{$:/info/url/origin}]#%24%3A%2Fplugins%2FTelumire%2FSwitcher%2Fwiki-color-scheme"&gt;meta tag&lt;/a&gt; to set the color theme to the current palette&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p><p><code>&lt;h2&gt;</code>0.0.2<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Correction to the auto-darkmode filter&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><p><code>&lt;h2&gt;</code>0.0.3<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Added &lt;a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://plm.tiddlyhost.com#%24%3A%2Fplugins%2FTelumire%2FSwitcher%2Fwiki-color-scheme"&gt;meta tag&lt;/a&gt; to set the color theme to the current palette&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p><p><code>&lt;h2&gt;</code>0.0.2<code>&lt;/h2&gt;</code></p><p>&lt;p&gt;&lt;ul&gt;&lt;li&gt;Correction to the auto-darkmode filter&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</p></p>]]></content:encoded>
 	  <pubDate>Mon, 08 May 2023 11:03:43 GMT</pubDate>
       <link>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</link>
       <guid isPermaLink='true'>https://plm.tiddlyhost.com#$:/plugins/Telumire/Switcher</guid>
